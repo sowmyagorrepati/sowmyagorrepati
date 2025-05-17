@@ -19,6 +19,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=sowmyagorrepati&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### GitHub Certifications 
+### Certifications 
 [![Foundations](./github-foundations.png)](https://www.credly.com/earner/earned/badge/35d1cd31-0796-4784-b335-b377c1361f55)
+[introduction-to-cybersecurity (3)](https://www.credly.com/badges/0b655d71-1825-442e-a051-695ad87d2e2a/public_url)
+![python-essentials-1 1](https://www.credly.com/badges/03ee90e8-dc28-463d-8fa3-0894d04470f3/public_url)
+![python-essentials-2](https://www.credly.com/badges/69432d66-2a91-4c5e-866b-35c4fd10046f/public_url)
+
+
+
+
+
 

@@ -21,7 +21,9 @@
 
 ### Certifications 
 [![Foundations](./github-foundations.png)](https://www.credly.com/earner/earned/badge/35d1cd31-0796-4784-b335-b377c1361f55)
-[![Introduction to Cybersecurity](https://github.com/user-attachments/assets/67869f6b-3d3c-4f77-99ba-948f99687e61)](https://www.credly.com/badges/0b655d71-1825-442e-a051-695ad87d2e2a/public_url)
+[![certified-system-administrator](![certified-system-administrator](https://github.com/user-attachments/assets/3c11daf5-4bfe-4281-b9ec-8ab7687dfc41)
+)](https://www.credly.com/badges/a96858e3-c98a-4722-ae92-72d9ae470e50/public_url)
+<!--[![Introduction to Cybersecurity](https://github.com/user-attachments/assets/67869f6b-3d3c-4f77-99ba-948f99687e61)](https://www.credly.com/badges/0b655d71-1825-442e-a051-695ad87d2e2a/public_url)-->
 [![Python Essentials 1](https://github.com/user-attachments/assets/484c7772-2cab-454e-b848-c9e61ba30af7)](https://www.credly.com/badges/03ee90e8-dc28-463d-8fa3-0894d04470f3/public_url)
 [![Python Essentials 2](https://github.com/user-attachments/assets/2f4b8a65-f7c2-4308-abb0-6e5ad47cb056)](https://www.credly.com/badges/69432d66-2a91-4c5e-866b-35c4fd10046f/public_url)
 [![CCNA: Introduction to Networks](https://github.com/user-attachments/assets/8ea61f3b-0b73-4c91-98a5-cd6e1ce9eed1)](https://www.credly.com/badges/4f173180-8ec3-4121-9ab2-2976fe749e92/public_url)
